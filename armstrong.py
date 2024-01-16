@@ -8,3 +8,8 @@ if z==a:
     print(a," is an armstrong number")
 else:
     print(a," a is not an armstrong number")
+
+
+#this feature is added in feature1 branch and not in master branch
+Aa=10
+print(Aa)
